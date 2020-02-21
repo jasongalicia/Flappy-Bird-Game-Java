@@ -14,11 +14,6 @@ Click [here](https://fbird-analytical-dashboard.herokuapp.com/login) to login an
 
 # Tools/Technologies Learned/Utilized
 
-- Java 8
-- MySQL
-- IntelliJ & Netbeans
-- MySQL Workbench
-
 Languages:
 - Java 8 
 - MySQL
@@ -27,6 +22,7 @@ Version Control
 - Git
 
 Text Editors/IDE:
+- MySQL Workbench
 - Netbeans
 
 # Installation
