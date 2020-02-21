@@ -19,6 +19,16 @@ Click [here](https://fbird-analytical-dashboard.herokuapp.com/login) to login an
 - IntelliJ & Netbeans
 - MySQL Workbench
 
+Languages:
+- Java 8 
+- MySQL
+
+Version Control
+- Git
+
+Text Editors/IDE:
+- Netbeans
+
 # Installation
 1. To view this project, you will need Java.
 
