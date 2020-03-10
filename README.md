@@ -28,11 +28,11 @@ Text Editors/IDE:
 # Installation
 1. To view this project, you will need Java.
 
-[Click here](https://www.java.com/en/download/) to download Java 
+  [Click here](https://www.java.com/en/download/) to download Java 
 
-OR
+    OR
 
-[Click here](https://www.java.com/en/download/) to download JDK 8u111 with Netbeans 8.2. 
+  [Click here](https://www.java.com/en/download/) to download JDK 8u111 with Netbeans 8.2. 
 
 2. Open the .jar file in the dist folder.
 
