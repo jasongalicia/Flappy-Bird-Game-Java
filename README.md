@@ -1,6 +1,6 @@
-# Flappy Bird In Java
+# Flappy Bird In Java Using A Time Loop
 
-The recreation of Flappy Bird is here! Recreated in Java, you are able to play this game.
+The recreation of Flappy Bird is here! Recreated in Java USING A TIME LOOP (Not an efficient Game Loop), you are able to play this game.
 The goal of this game is to get through as many pipes and you must jump through them because the character is in free fall. Once you make contact
 with either the ground or the pipes, you lose the game.
 
